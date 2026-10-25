@@ -1,0 +1,10 @@
+Number of memory blocks: 3
+Enter block sizes: 100 500 200
+Number of processes: 3
+Enter process sizes: 90 210 150
+1.First Fit 2.Best Fit 3.Worst Fit: 1
+
+Process Size Block
+P1      90   1
+P2      210  2
+P3      150  2
