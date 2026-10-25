@@ -1,0 +1,3 @@
+Before fork: PID = 4201, PPID = 1800
+Parent process: PID = 4201, Child PID = 4202
+Child process: PID = 4202, PPID = 4201
