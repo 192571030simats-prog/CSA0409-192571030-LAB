@@ -1,0 +1,3 @@
+Hello from thread 1
+Hello from thread 2
+Main thread finished.
