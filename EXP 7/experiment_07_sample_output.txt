@@ -1,0 +1,11 @@
+Enter number of processes: 3
+Arrival and burst time for P1: 0 6
+Arrival and burst time for P2: 1 2
+Arrival and burst time for P3: 2 4
+
+Process AT BT WT TAT
+P1      0  6  0  6
+P2      1  2  5  7
+P3      2  4  6  10
+Average WT = 3.67
+Average TAT = 7.67
