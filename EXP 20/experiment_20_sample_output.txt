@@ -1,0 +1,3 @@
+Reader reads data: 0
+Writer writes data: 1
+Reader reads data: 1
