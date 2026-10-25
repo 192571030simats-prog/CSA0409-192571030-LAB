@@ -1,0 +1,12 @@
+1.Add user  2.Add file  3.List directory  4.Exit
+Choice: 1
+User name: student
+User directory created.
+Choice: 2
+User number (1-1): 1
+File name: lab.c
+File added.
+Choice: 3
+student/:
+  lab.c
+Choice: 4
