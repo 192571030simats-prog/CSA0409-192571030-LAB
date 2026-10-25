@@ -1,0 +1,12 @@
+Enter number of processes: 3
+Burst time for P1: 5
+Burst time for P2: 4
+Burst time for P3: 2
+Enter time quantum: 2
+
+Process BT WT TAT
+P1      5  4  9
+P2      4  4  8
+P3      2  4  6
+Average WT = 4.00
+Average TAT = 7.67
