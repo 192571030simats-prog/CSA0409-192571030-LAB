@@ -1,0 +1,9 @@
+Enter number of processes: 3
+Burst time and priority for P1: 4 2
+Burst time and priority for P2: 3 1
+Burst time and priority for P3: 2 3
+
+Process BT Priority WT TAT
+P1      4  2        3  7
+P2      3  1        0  3
+P3      2  3        7  9
