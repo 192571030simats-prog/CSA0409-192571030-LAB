@@ -1,0 +1,5 @@
+$ printf 'Hello Operating Systems\n' > source.txt
+$ ./exp2
+File copied successfully.
+$ cat destination.txt
+Hello Operating Systems
