@@ -1,0 +1,11 @@
+Enter number of processes: 3
+Enter burst time and priority for P1 (smaller priority = higher): 5 2
+Enter burst time and priority for P2 (smaller priority = higher): 3 1
+Enter burst time and priority for P3 (smaller priority = higher): 8 3
+
+Process BT Priority WT TAT
+P2      3  1        0  3
+P1      5  2        3  8
+P3      8  3        8  16
+Average WT = 3.67
+Average TAT = 9.00
