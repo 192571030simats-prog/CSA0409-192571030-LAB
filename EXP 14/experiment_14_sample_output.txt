@@ -1,0 +1,8 @@
+1.Create file  2.List files  3.Exit
+Choice: 1
+File name: notes.txt
+File created.
+Choice: 2
+Files in directory:
+notes.txt
+Choice: 3
