@@ -1,0 +1,4 @@
+Enter employee ID, name and salary: 1 Anu 25000
+Employee record saved.
+Enter ID to read: 1
+ID: 1 Name: Anu Salary: 25000.00
