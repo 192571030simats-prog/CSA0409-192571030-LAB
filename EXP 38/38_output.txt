@@ -1,0 +1,4 @@
+Experiment 38: SCAN Disk Scheduling
+$ ./program
+SCAN path: 53 -> 65 -> 67 -> 98 -> 122 -> 124 -> 183 -> 199 -> 37 -> 14
+Total head movement: 331
