@@ -1,0 +1,8 @@
+Experiment 36: Linked File Allocation
+$ ./program
+Linked file allocation (block -> next)
+7 -> 19 -> 3 -> 24 -> NULL
+7 -> 19
+19 -> 3
+3 -> 24
+Start block: 7, End block: 24
