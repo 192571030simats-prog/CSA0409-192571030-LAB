@@ -1,0 +1,7 @@
+Experiment 22: Best Fit Memory Allocation
+$ ./program
+Process	Size	Block
+P1	212	B4
+P2	417	B2
+P3	112	B3
+P4	426	B5
