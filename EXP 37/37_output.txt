@@ -1,0 +1,4 @@
+Experiment 37: FCFS Disk Scheduling
+$ ./program
+Head movement: 53 -> 98 -> 183 -> 37 -> 122 -> 14 -> 124 -> 65 -> 67
+Total head movement: 640 cylinders
