@@ -1,0 +1,4 @@
+Experiment 39: C-SCAN Disk Scheduling
+$ ./program
+C-SCAN path: 53 -> 65 -> 67 -> 98 -> 122 -> 124 -> 183 -> 199 -> 0 -> 14 -> 37
+Total head movement (including wrap): 382
