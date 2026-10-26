@@ -1,0 +1,9 @@
+Experiment 25: UNIX I/O Calls fcntl lseek stat opendir readdir
+$ ./program
+fcntl flags: 32770
+lseek/read: HELLO
+stat size: 5 bytes
+readdir sample:
+exp25.txt
+.
+..
