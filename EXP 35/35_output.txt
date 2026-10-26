@@ -1,0 +1,9 @@
+Experiment 35: Indexed File Allocation
+$ ./program
+Index block contains:
+Record/block 1 -> disk block 9
+Record/block 2 -> disk block 16
+Record/block 3 -> disk block 1
+Record/block 4 -> disk block 10
+Record/block 5 -> disk block 25
+Access record 3: disk block 1
