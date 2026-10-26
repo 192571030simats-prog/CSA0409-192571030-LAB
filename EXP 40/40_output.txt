@@ -1,0 +1,7 @@
+Experiment 40: Linux File Access Permissions and Users
+$ ./program
+File: exp40_permissions.txt
+Permissions: 0640
+Owner: read/write; Group: read; Others: no access
+Users: owner (u), group (g), others (o)
+Example command: chmod 640 exp40_permissions.txt
