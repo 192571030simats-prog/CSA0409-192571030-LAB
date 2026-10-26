@@ -1,0 +1,16 @@
+Experiment 31: FIFO Page Replacement
+$ ./program
+7 -> 7 -1 -1 Fault
+0 -> 7 0 -1 Fault
+1 -> 7 0 1 Fault
+2 -> 2 0 1 Fault
+0 -> 2 0 1 Hit
+3 -> 2 3 1 Fault
+0 -> 2 3 0 Fault
+4 -> 4 3 0 Fault
+2 -> 4 2 0 Fault
+3 -> 4 2 3 Fault
+0 -> 0 2 3 Fault
+3 -> 0 2 3 Hit
+2 -> 0 2 3 Hit
+Page faults: 10
