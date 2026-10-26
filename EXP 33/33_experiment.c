@@ -1,0 +1,2 @@
+#include <stdio.h>
+int main(void){int r[]={7,0,1,2,0,3,0,4,2,3,0,3,2},n=13,f[3]={-1,-1,-1},fault=0;for(int i=0;i<n;i++){int hit=0;for(int j=0;j<3;j++)if(f[j]==r[i])hit=1;if(!hit){int k=-1,far=-1;for(int j=0;j<3;j++){int q;for(q=i+1;q<n&&r[q]!=f[j];q++);if(f[j]==-1){k=j;break;}if(q>far){far=q;k=j;}}f[k]=r[i];fault++;}printf("%d -> %d %d %d\n",r[i],f[0],f[1],f[2]);}printf("Page faults: %d\n",fault);return 0;}
