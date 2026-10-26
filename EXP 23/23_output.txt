@@ -1,0 +1,7 @@
+Experiment 23: First Fit Memory Allocation
+$ ./program
+Process	Size	Block
+P1	212	B2
+P2	417	B5
+P3	112	B2
+P4	426	Not allocated
