@@ -1,0 +1,5 @@
+Experiment 26: File Management Operations
+$ ./program
+File created and written.
+Read: Operating Systems Lab
+File deleted successfully.
