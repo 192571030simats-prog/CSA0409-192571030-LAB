@@ -1,0 +1,5 @@
+Experiment 30: Thread create join equal exit
+$ ./program
+pthread_equal(self,self): true
+Thread running.
+Thread joined; exit value=42
