@@ -1,0 +1,5 @@
+Experiment 28: Simulation of grep Command
+$ ./program
+Lines containing 'OS':
+OS Lab Experiment
+Matches: 1
